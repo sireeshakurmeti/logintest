@@ -1,0 +1,13 @@
+form{
+    width: 500px;
+
+  
+    /* background: radial-gradient(#5b5dc9, #94e9cf); */
+/* background-color: #1426ce;
+background-image: linear-gradient(blue 0%, white 74%); */
+background-color: rgba(255, 255, 255, 0.2);
+    
+}
+.btn-primary{
+background-color: #1d4b66;
+}
